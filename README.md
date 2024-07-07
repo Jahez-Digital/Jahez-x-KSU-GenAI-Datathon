@@ -1,3 +1,4 @@
+![Jahez KSU Datathon](https://github.com/Jahez-Digital/Jahez-x-KSU-GenAI-Datathon/assets/91406361/17651048-a005-4b0e-867b-9127ca2f352c)
 Welcome to the **Jahez Digital**! This repository contains a series of educational scripts designed to equip participants with fundamental skills in Python, Data Manipulation, and OpenAI API usage. These scripts were initially created for the KSU X Jahez Datathon to guide aspiring GenAI experts in their journey, but they are also valuable resources for anyone interested in data science and general technical proficiency.
 
 ### Repository Contents
